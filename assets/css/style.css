@@ -128,7 +128,7 @@ a {
     height: 180px;
     border-radius: var(--radius-full);
     border: 4px solid var(--accent-primary);
-    background-image: url('https://via.placeholder.com/180');
+    background-image: url('assets/images/IMG_6845.png');
     background-size: cover;
     background-position: center;
     box-shadow: 0 0 20px rgba(0, 179, 255, 0.5);
